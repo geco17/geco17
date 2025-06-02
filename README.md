@@ -1,11 +1,11 @@
-<img align="left" width="30%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/soldier.jpg">
+<img align="left" width="30%" src="https://raw.githubusercontent.com/geco17/geco17/refs/heads/main/f91bcd3e9395b2eeb13f20c507619aa7.jpg">
 
-### Hi, I'm Ether
+### Hi, I'm geco
 
-> Highschool Student with aspirations to one day work in a respectable company
+> Highschool Student
 
-![Static Badge](https://img.shields.io/badge/Age-16-orange)
-![Static Badge](https://img.shields.io/badge/country-Brasil-green)
-![Static Badge](https://img.shields.io/badge/OS-Nixos-blue?style=flat)
-<br><br><br><br>
+![Static Badge](https://img.shields.io/badge/Age-16-green)
+![Static Badge](https://img.shields.io/badge/country-Brazil-green)
+
+
 
