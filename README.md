@@ -5,7 +5,7 @@
 > Highschool Student
 
 ![Static Badge](https://img.shields.io/badge/Age-16-black)
-![Static Badge](https://img.shields.io/badge/country-Brazil-gray)
+![Static Badge](https://img.shields.io/badge/country-Brazil-black)
 
 
 
