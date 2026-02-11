@@ -4,8 +4,8 @@
 
 > Highschool Student
 
-![Static Badge](https://img.shields.io/badge/Age-16-green)
-![Static Badge](https://img.shields.io/badge/country-Brazil-green)
+![Static Badge](https://img.shields.io/badge/Age-16-black)
+![Static Badge](https://img.shields.io/badge/country-Brazil-gray)
 
 
 
