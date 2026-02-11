@@ -1,4 +1,4 @@
-<img align="left" width="30%" src="https://raw.githubusercontent.com/geco17/geco17/refs/heads/main/f91bcd3e9395b2eeb13f20c507619aa7.jpg">
+<img align="left" width="30%" src="https://lens.usercontent.google.com/image?vsrid=COWe0dCukv_oIxACGAEiJDU4Nzg0ZmMzLTVmNTItNDVkYS05Nzk4LTE3NjA2NmUxMWVjMjIGIgJjZygBOLbXzNTE0pID&gsessionid=hVtXTJnPGgJFy-emCuTvtOOqTFXIFJLYe09LSiPiWT_16-pgmVpHvA">
 
 ### Hi, I'm geco
 
